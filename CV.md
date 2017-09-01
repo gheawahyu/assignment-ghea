@@ -10,28 +10,28 @@ CV Ghea Wahyu Puspita
 Education
 ---------
 * Tilburg University (2017-2018)
->>Master's degree, Economics
+  * Master's degree, Economics
 * Tilburg University (2014-2017)
->>Bachelor's degree, Economics
+  * Bachelor's degree, Economics
 * University of Indonesia (2012-2017)
->>Bachelor's degree, Economics  
+  * Bachelor's degree, Economics  
 
 Volunteer Experience
 --------------------
 * Dance Instructor (2014)
->>Sekolah Non Formal FEB UI
->>>Sekolah Non Formal FEB UI is a student organization concerning the education of underprivileged children. As a dance instructor, I developed a dance curriculum framework and taught the dance to a number of underprivileged children.
+  * Sekolah Non Formal FEB UI
+    * Sekolah Non Formal FEB UI is a student organization concerning the education of underprivileged children. As a dance instructor, I developed a dance curriculum framework and taught the dance to a number of underprivileged children.
 
 Organizations
 -------------
 * Indonesian Student Association in Tilburg (2015-2016)
->>Vice President
+  * Vice President
 * Indonesian Student Association in Tilburg (2014-2015)
->>Secretary
+  * Secretary
 * Traditional Dance Student Organization (SGB FEB UI) (2014)
->>President
+  * President
 * AIESEC UI (2012-2013)
-Staff of Outgoing Global Intern Programs
+  * Staff of Outgoing Global Intern Programs
 
 Projects
 --------
@@ -48,7 +48,7 @@ Achievements
 Certificates
 ------------
 * TCE Minor Entrepreneurship (2016)
-  A certification of minor in Entrepreneuship courses: Creative Entrepreneurship, Theory & Practice, Introduction to Corporate Entrepreneurship
+  * A certification of minor in Entrepreneuship courses: Creative Entrepreneurship, Theory & Practice, Introduction to Corporate Entrepreneurship
 * Academic Writing Workshop (2016)
 * Youth to Business Seminar (2012)
   * A certification of entrepreneurial seminar held by AIESEC Univeristy of Indonesia
@@ -62,4 +62,18 @@ Languages
 
 Skills
 ------
-Microsoft Office
+* Microsoft Office
+* Entrepreneurial Business Planning: Theory&Practice
+* Presentation Skills
+* Academic Writing
+* Teamwork
+* Emotional Intelligence
+* Stata
+* Python
+
+Interest
+--------
+* Economics
+* Performing Arts
+* Entrepreneurship
+* Sustainability and Renewability
