@@ -71,8 +71,8 @@ Skills
 * Stata
 * Python
 
-Interest
---------
+Interests
+---------
 * Economics
 * Performing Arts
 * Entrepreneurship
