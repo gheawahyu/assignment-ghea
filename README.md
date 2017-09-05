@@ -1,4 +1,4 @@
 # assignments-ghea
 This repository contains my assignments
 
-[My CV](assignments-ghea/CV.md)
+[My CV](https://github.com/gheawahyu/assignments-ghea/blob/master/CV.md)
